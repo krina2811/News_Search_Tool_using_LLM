@@ -4,9 +4,9 @@ The news_search_tool is a powerful and efficient application designed to retriev
 
 The system is built on a Retrieval-Augmented Generation (RAG) framework, which integrates a Qdrant vector database to store and query news data. Qdrant is known for its high-quality features, including:
 
--> Scalable Vector Storage: Handles large volumes of high-dimensional vectors with efficiency.<\br>
--> Fast Similarity Search: Provides quick and accurate search results through advanced indexing and querying capabilities.</br>
--> Flexible and Robust: Supports dynamic updates and scaling, ensuring the database remains responsive and reliable as data grows.</br>
+-> Scalable Vector Storage: Handles large volumes of high-dimensional vectors with efficiency. <\br>
+-> Fast Similarity Search: Provides quick and accurate search results through advanced indexing and querying capabilities. </br>
+-> Flexible and Robust: Supports dynamic updates and scaling, ensuring the database remains responsive and reliable as data grows. </br>
 
 In the development process, various models such as Phi-3-4k Instruct and Llama-2-Chat-HF were tested. The Mistral 7B model outperformed these alternatives, delivering the best results in terms of accuracy and relevance. This combination of Mistral 7B's capabilities and Qdrant's robust vector database ensures users receive high-quality, timely information with exceptional speed and precision.
 
