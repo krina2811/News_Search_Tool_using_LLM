@@ -1,6 +1,6 @@
 # News_Search_Tool_using_LLM
 
-The news_search_tool is a powerful and efficient application designed to retrieve news articles quickly using the Mistral 7B OpenOrca GGUF model. This tool delivers precise search results within 5 to 6 minutes on a local computer, utilizing 16 GB of VRAM and RAM. To further enhance performance, GPU offloading techniques are applied, significantly increasing inference speed.
+The news_search_tool is a powerful and efficient application designed to retrieve news articles quickly using the Mistral 7B. This tool delivers precise search results within 5 to 6 minutes on a local computer, utilizing 16 GB of VRAM and RAM. To further enhance performance, GPU offloading techniques are applied, significantly increasing inference speed.
 
 The system is built on a Retrieval-Augmented Generation (RAG) framework, which integrates a Qdrant vector database to store and query news data. Qdrant is known for its high-quality features, including:
 
